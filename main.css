@@ -1,0 +1,43 @@
+body{
+	background: url(images/dance.jpg);
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	background-size: cover;
+	-o-background-size:cover;
+}
+
+#loginContainer{
+	margin: 260px 0 0 100px;
+	width: 400px;
+	height: 400px;
+	
+}
+
+#loginContainer2{
+	margin: 260px 0 0 100px;
+	width: 400px;
+	height: 600px;
+	display:none;
+}
+
+#formHeader{
+	margin:20px 0 0 100px;
+}
+#signInForm{
+	margin:-40px 0 0 40px;
+	width:80%;
+
+}
+
+#join{
+	margin-top: 20px;
+	
+} 
+
+#join a.active{
+	color: cyan;
+}
+
+.registerForm {
+	display:none;
+}
